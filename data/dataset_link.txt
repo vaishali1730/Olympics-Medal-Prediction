@@ -1,0 +1,8 @@
+Dataset Source:
+120 Years of Olympic History: Athletes and Results
+
+Kaggle Link:
+https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
+
+Note:
+The dataset is publicly available on Kaggle and was used for academic and analytical purposes in this project.
